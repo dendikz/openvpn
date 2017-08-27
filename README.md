@@ -3,7 +3,7 @@ openvpn script dari Nyar.
 
 # Cara install
 
-wget https://github.com/dendikz/openvpn/blob/master/vpn.sh --no-check-certificate -O openvpn-install.sh; chmod +x vpn.sh;
+wget https://github.com/dendikz/openvpn/blob/master/vpn.sh --no-check-certificate -O vpn.sh; chmod +x vpn.sh;
 
 Jalankan 
 
